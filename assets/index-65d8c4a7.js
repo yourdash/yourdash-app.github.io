@@ -1,4 +1,4 @@
-import{r,j as n,d as t,R as o,a as s}from"./index-66ab9f12.js";import{C as a,a as i}from"./editor-335f8fc2.js";const c=()=>{const e=r.useRef(null);return r.useEffect(()=>{if(!e.current)return;new a(e.current)._debugRenderParsedString(`import { Component } from "react";
+import{r,j as n,d as t,R as o,a as s}from"./index-01aaedfa.js";import{C as a,a as i}from"./editor-335f8fc2.js";const c=()=>{const e=r.useRef(null);return r.useEffect(()=>{if(!e.current)return;new a(e.current)._debugRenderParsedString(`import { Component } from "react";
 
 // YourDash Javascript parser test script
 
